@@ -1,0 +1,20 @@
+Pertama  Unduh file nya
+
+Karena Ini bukan Produk Jadi Jadi Pastikan anda menginstall beberapa modul yg saya gunakan
+
+Program yang digunakan : Python, https://www.python.org/ftp/python/3.8.1/python-3.8.1-amd64.exe
+                         ActiveTcl, https://pre-platform-installers.s3.amazonaws.com/ActiveTcl-8.6.9.8609.2-MSWin32-x64-5ccbd9ac8.exe?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJAFTYUXEZJ3HWLEQ%2F20200128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200128T142345Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=ca073659b24dac5041fd842254ac5943c105f706c7d81bc267bb84e06ac7cc1b
+                         Page, https://sourceforge.net/projects/page/files/latest/download
+                         xampp, https://www.apachefriends.org/download.html
+
+Python sebagai bahasa Utama
+Sedangkan ActiveTcl dan Page adalah pembuat Graphical User Interface yg saya gunakan
+
+Untuk OBE : modul numpy
+            "pip install numpy"
+Untuk mail : modul google-api-python-client google-auth-httplib2 google-auth-oauthlib
+            "pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib"
+Untuk Crud : modul mysql-connector
+             "pip install mysql-connector"
+
+Untuk Crud silahkan Buka bagian modul agar tahu apa yang terjadi
